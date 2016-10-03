@@ -1,0 +1,125 @@
+[15-Jul-2016 10:51:35 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:35 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:35 America/Chicago] PHP Warning:  include(): Failed opening 'vendor/twilio/sdk/Services/Twilio.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:35 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/untold.php on line 5
+[15-Jul-2016 10:51:43 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:43 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:43 America/Chicago] PHP Warning:  include(): Failed opening 'vendor/twilio/sdk/Services/Twilio.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:43 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/untold.php on line 5
+[15-Jul-2016 10:51:45 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:45 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:45 America/Chicago] PHP Warning:  include(): Failed opening 'vendor/twilio/sdk/Services/Twilio.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:51:45 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/untold.php on line 5
+[15-Jul-2016 10:52:00 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:52:00 America/Chicago] PHP Warning:  include(vendor/twilio/sdk/Services/Twilio.php): failed to open stream: No such file or directory in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:52:00 America/Chicago] PHP Warning:  include(): Failed opening 'vendor/twilio/sdk/Services/Twilio.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/untoldyoga/public_html/untold.php on line 4
+[15-Jul-2016 10:52:00 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/untold.php on line 5
+[15-Jul-2016 10:52:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'untoldyo_seand'@'localhost' (using password: YES) in /home/untoldyoga/public_html/untold.php on line 13
+[15-Jul-2016 10:52:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'untoldyo_seand'@'localhost' (using password: YES) in /home/untoldyoga/public_html/untold.php on line 13
+[15-Jul-2016 10:53:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'untoldyo_seand'@'localhost' (using password: YES) in /home/untoldyoga/public_html/untold.php on line 13
+[15-Jul-2016 11:58:10 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/untoldyoga/public_html/untold.php on line 60
+[15-Jul-2016 11:58:10 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/untoldyoga/public_html/untold.php on line 60
+[15-Jul-2016 12:37:26 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/untoldyoga/public_html/untold.php on line 62
+[15-Jul-2016 12:38:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/untoldyoga/public_html/untold.php on line 19
+[15-Jul-2016 12:40:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'untoldyoga'@'localhost' (using password: NO) in /home/untoldyoga/public_html/untold.php on line 59
+[15-Jul-2016 12:40:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/untoldyoga/public_html/untold.php on line 63
+[15-Jul-2016 12:40:06 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/untoldyoga/public_html/untold.php on line 74
+[15-Jul-2016 12:42:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'untoldyoga'@'localhost' (using password: NO) in /home/untoldyoga/public_html/untold.php on line 59
+[15-Jul-2016 12:42:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/untoldyoga/public_html/untold.php on line 63
+[15-Jul-2016 12:42:05 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/untoldyoga/public_html/untold.php on line 74
+[15-Jul-2016 12:57:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 96
+[15-Jul-2016 13:01:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 96
+[15-Jul-2016 13:02:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 96
+[15-Jul-2016 13:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 97
+[15-Jul-2016 13:04:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 97
+[15-Jul-2016 13:05:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 36
+[15-Jul-2016 13:07:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 36
+[15-Jul-2016 13:13:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 66
+[15-Jul-2016 13:13:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 66
+[15-Jul-2016 19:25:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/untoldyoga/public_html/untold.php on line 68
+[17-Jul-2016 14:16:56 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/untoldyoga/public_html/untold.php on line 14
+[17-Jul-2016 14:31:43 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/untoldyoga/public_html/untold.php on line 13
+[17-Jul-2016 14:32:32 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/untoldyoga/public_html/untold.php on line 13
+[17-Jul-2016 14:34:09 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/untoldyoga/public_html/untold.php on line 13
+[17-Jul-2016 14:34:49 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/untoldyoga/public_html/untold.php on line 13
+[17-Jul-2016 14:38:46 America/Chicago] PHP Warning:  preg_replace(): No ending delimiter '-' found in /home/untoldyoga/public_html/untold.php on line 14
+[17-Jul-2016 14:41:45 America/Chicago] PHP Warning:  preg_replace(): No ending delimiter '-' found in /home/untoldyoga/public_html/untold.php on line 13
+[17-Jul-2016 14:58:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/untold.php on line 87
+[19-Jul-2016 10:58:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/untoldyoga/public_html/untold.php on line 165
+[19-Jul-2016 10:59:07 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/untoldyoga/public_html/untold.php on line 165
+[21-Jul-2016 22:55:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Jul-2016 01:03:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Jul-2016 01:37:42 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/untoldyoga/public_html/ajax1.php on line 5
+[22-Jul-2016 01:38:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/untoldyoga/public_html/ajax1.php on line 5
+[22-Jul-2016 01:39:33 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/untoldyoga/public_html/ajax1.php on line 5
+[22-Jul-2016 01:40:08 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/untoldyoga/public_html/ajax1.php on line 5
+[22-Jul-2016 09:15:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/applyForClass.php on line 27
+[22-Jul-2016 09:15:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/applyForClass.php on line 27
+[22-Jul-2016 09:17:17 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/applyForClass.php on line 2
+[22-Jul-2016 09:17:19 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/applyForClass.php on line 2
+[22-Jul-2016 09:19:06 America/Chicago] PHP Fatal error:  Class 'Services_Twilio' not found in /home/untoldyoga/public_html/applyForClass.php on line 2
+[22-Jul-2016 12:06:39 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/untoldyoga/public_html/appliedToNext.php on line 9
+[22-Jul-2016 12:07:18 America/Chicago] PHP Fatal error:  Call to undefined function push() in /home/untoldyoga/public_html/appliedToNext.php on line 15
+[22-Jul-2016 12:19:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/untoldyoga/public_html/appliedToNext.php on line 35
+[22-Jul-2016 12:20:47 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/untoldyoga/public_html/appliedToNext.php on line 33
+[22-Jul-2016 12:20:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/untoldyoga/public_html/appliedToNext.php on line 35
+[22-Jul-2016 12:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/untoldyoga/public_html/appliedToNext.php on line 39
+[22-Jul-2016 12:24:04 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/untoldyoga/public_html/appliedToNext.php on line 35
+[22-Jul-2016 12:37:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$fromNumber' (T_VARIABLE) in /home/untoldyoga/public_html/appliedToNext.php on line 56
+[22-Jul-2016 12:37:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/untoldyoga/public_html/appliedToNext.php on line 39
+[22-Jul-2016 12:37:19 America/Chicago] PHP Fatal error:  Call to a member function sendMessage() on null in /home/untoldyoga/public_html/appliedToNext.php on line 61
+[22-Jul-2016 12:37:44 America/Chicago] PHP Fatal error:  Call to a member function sendMessage() on null in /home/untoldyoga/public_html/appliedToNext.php on line 61
+[22-Jul-2016 12:45:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/untoldyoga/public_html/appliedToNext.php on line 60
+[22-Jul-2016 12:55:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 59
+[22-Jul-2016 12:56:40 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 59
+[22-Jul-2016 12:57:21 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 59
+[22-Jul-2016 13:00:35 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 59
+[22-Jul-2016 13:01:56 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 54
+[22-Jul-2016 13:03:15 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 54
+[22-Jul-2016 13:04:31 America/Chicago] PHP Parse error:  syntax error, unexpected '"+1"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/untoldyoga/public_html/applyForClass.php on line 27
+[24-Jul-2016 09:11:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/untoldyoga/public_html/appliedToNext.php on line 75
+[05-Aug-2016 11:02:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/untoldyoga/public_html/appliedToNext.php on line 81
+[24-Sep-2016 22:52:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/register.php on line 20
+[24-Sep-2016 22:53:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/register.php on line 20
+[24-Sep-2016 22:55:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:55:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:55:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:55:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:55:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:55:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:56:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/register.php on line 20
+[24-Sep-2016 22:56:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:56:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 22:56:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/untoldyoga/public_html/applyForClass.php on line 19
+[24-Sep-2016 23:23:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 94
+[24-Sep-2016 23:25:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 94
+[24-Sep-2016 23:25:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 94
+[24-Sep-2016 23:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 94
+[24-Sep-2016 23:27:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:28:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:28:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:28:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:28:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:29:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:29:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:29:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:31:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:31:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:33:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:33:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:33:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:34:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 96
+[24-Sep-2016 23:37:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 98
+[24-Sep-2016 23:37:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 98
+[24-Sep-2016 23:41:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 98
+[24-Sep-2016 23:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/untoldyoga/public_html/applyForClass.php on line 97
+[24-Sep-2016 23:53:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The 'To' number +3306714458 is not a valid phone number.' in /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio.php:297
+Stack trace:
+#0 /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/untoldyoga/public_html/applyForClass.php(97): Services_Twilio_Rest_Messages->sendMessage('+13126464724', '+3306714458', 'Hey there! Than...')
+#5 /home/untoldyoga/public_html/applyForClass.php(29): sendText('Sean Crowe', '3306714458')
+#6 {main}
+  thrown in /home/untoldyoga/public_html/vendor/twilio/sdk/Services/Twilio.php on line 297
